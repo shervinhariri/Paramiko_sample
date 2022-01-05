@@ -1,8 +1,5 @@
-# Paramiko_sample
-#
-#
-#
-================================
+
+
 Install Paramiko:
 ================================
 apt-get update
