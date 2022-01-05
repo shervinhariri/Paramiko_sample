@@ -1,8 +1,8 @@
 import paramiko
 
 router_ip = "router01"
-router_username = "hometech"
-router_password = "RB0_99=@Vin"
+router_username = "username"
+router_password = "secret"
 
 ssh = paramiko.SSHClient()
 
